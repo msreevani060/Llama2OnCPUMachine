@@ -1,0 +1,40 @@
+[2024-07-28 15:20:09,175]:Creating directory;src for the file :__init__.py
+[2024-07-28 15:20:09,175]:Creating empty file: src\__init__.py
+[2024-07-28 15:20:09,176]:Creating directory;src for the file :run_local.py
+[2024-07-28 15:20:09,177]:Creating empty file: src\run_local.py
+[2024-07-28 15:20:09,177]:Creating directory;src for the file :helper.py
+[2024-07-28 15:20:09,178]:Creating empty file: src\helper.py
+[2024-07-28 15:20:09,179]:Creating directory;model for the file :instruction.py
+[2024-07-28 15:20:09,179]:Creating empty file: model\instruction.py
+[2024-07-28 15:20:09,180]:Creating empty file: requirements.txt
+[2024-07-28 15:20:09,182]:Creating empty file: setup.py
+[2024-07-28 15:20:09,183]:Creating empty file: main.py
+[2024-07-28 15:20:09,184]:Creating directory;research for the file :trails.py
+[2024-07-28 15:20:09,185]:Creating empty file: research\trails.py
+[2024-07-28 15:20:13,196]:Creating directory;src for the file :__init__.py
+[2024-07-28 15:20:13,197]:Creating empty file: src\__init__.py
+[2024-07-28 15:20:13,197]:Creating directory;src for the file :run_local.py
+[2024-07-28 15:20:13,197]:Creating empty file: src\run_local.py
+[2024-07-28 15:20:13,198]:Creating directory;src for the file :helper.py
+[2024-07-28 15:20:13,198]:Creating empty file: src\helper.py
+[2024-07-28 15:20:13,198]:Creating directory;model for the file :instruction.py
+[2024-07-28 15:20:13,198]:Creating empty file: model\instruction.py
+[2024-07-28 15:20:13,199]:Creating empty file: requirements.txt
+[2024-07-28 15:20:13,199]:Creating empty file: setup.py
+[2024-07-28 15:20:13,200]:Creating empty file: main.py
+[2024-07-28 15:20:13,200]:Creating directory;research for the file :trails.py
+[2024-07-28 15:20:13,201]:Creating empty file: research\trails.py
+[2024-07-28 15:20:13,201]:Creating empty file: test.py
+[2024-07-28 15:20:41,254]:Creating directory;src for the file :__init__.py
+[2024-07-28 15:20:41,254]:Creating empty file: src\__init__.py
+[2024-07-28 15:20:41,254]:Creating directory;src for the file :run_local.py
+[2024-07-28 15:20:41,254]:Creating empty file: src\run_local.py
+[2024-07-28 15:20:41,254]:Creating directory;src for the file :helper.py
+[2024-07-28 15:20:41,254]:Creating empty file: src\helper.py
+[2024-07-28 15:20:41,254]:Creating directory;model for the file :instruction.py
+[2024-07-28 15:20:41,262]:Creating empty file: model\instruction.py
+[2024-07-28 15:20:41,262]:Creating empty file: requirements.txt
+[2024-07-28 15:20:41,262]:Creating empty file: setup.py
+[2024-07-28 15:20:41,262]:Creating empty file: main.py
+[2024-07-28 15:20:41,264]:Creating directory;research for the file :trails.py
+[2024-07-28 15:20:41,264]:Creating empty file: research\trails.py
